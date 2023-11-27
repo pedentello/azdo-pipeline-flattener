@@ -6,8 +6,8 @@ from requests.auth import HTTPBasicAuth
 import getpass
             
 def main():
-    user = "dentello@hotmail.com"
-    password = "brqnix4e5iqajzcgqlypxla7n26olany5utxvsausqkwbypqtmqq"
+    user = "xxx@hotmail.com"
+    password = "xxx"
     
     headers = {
         "Content-Type": "application/json"
